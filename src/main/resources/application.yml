@@ -6,3 +6,5 @@ logging:
     hello:
       springmvc: trace
     root: info
+
+
